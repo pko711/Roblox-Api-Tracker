@@ -1,7 +1,7 @@
 window.onload = function() {
   //<editor-fold desc="Changeable Configuration Block">
   window.ui = SwaggerUIBundle({
-    url: "https://raw.githubusercontent.com/Paficent/Roblox-Api-Tracker/main/accountinformation/v1.json",
+    url: "https://raw.githubusercontent.com/pko711/Roblox-Api-Tracker/main/accountinformation/v1.json",
     dom_id: '#swagger-ui',
     deepLinking: true,
     presets: [
